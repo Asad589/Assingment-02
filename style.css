@@ -1,0 +1,72 @@
+body {
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Gantari', sans-serif;
+    background-color: #FFFFFF;
+}
+
+/* ------
+ section
+ -------- */
+
+.container {
+    display: flex;
+    background-color: black;
+    position: absolute;
+    border-radius: 30px;
+    width: 1320px;
+    height: 646px;
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-top: 50px;
+}
+
+.blogs {
+    position: absolute;
+    background-color: black;
+    border-radius: 30px;
+    width: 312px;
+    height: 312px;
+    margin-left: 140px;
+    margin-top: 826px;
+}
+
+.world {
+    color: white;
+    margin-left: 106px;
+    margin-top: 110px;
+    margin-bottom: 110px;
+    margin-right: 24px;
+}
+
+.cup {
+    font-size: 50px;
+}
+
+.live {
+    background-image: linear-gradient(red, tomato);
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-weight: 800;
+    color: white;
+}
+
+.fa-angle-right {
+    margin-left: 5px;
+}
+
+.img {
+    margin-top: 30px;
+    margin-right: 79px;
+}
+
+.img img {
+    width: 580px;
+    height: 610px;
+}
+
+.ive {
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-weight: 800;
+}
